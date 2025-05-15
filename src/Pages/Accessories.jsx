@@ -3,25 +3,25 @@ const accessories = [
     id: 1,
     name: "WRKHRD Gym Backpack",
     price: "$39.99",
-    image: "/images/backpack.png"
+    image: "./images/backpack.png"
   },
   {
     id: 2,
     name: "WRKHRD Sport Sunglasses",
     price: "$19.99",
-    image: "/images/sunglasses.png"
+    image: "./images/sunglasses.png"
   },
   {
     id: 3,
     name: "WRKHRD Workout Towel",
     price: "$14.99",
-    image: "/images/towel.png"
+    image: "./images/towel.png"
   },
   {
     id: 4,
     name: "WRKHRD Duffel Bag",
     price: "$59.99",
-    image: "/images/duffel.png"
+    image: "./images/duffel.png"
   }
 ];
 

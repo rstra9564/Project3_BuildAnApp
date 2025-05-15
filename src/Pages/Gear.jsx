@@ -3,25 +3,25 @@ const gearItems = [
     id: 1,
     name: "WRKHRD Performance Tee",
     price: "$29.99",
-    image: "/images/tshirt.png"
+    image: "./images/tshirt.png"
   },
   {
     id: 2,
     name: "WRKHRD Training Shorts",
     price: "$34.99",
-    image: "/images/shorts.png"
+    image: "./images/shorts.png"
   },
   {
     id: 3,
     name: "WRKHRD Hoodie",
     price: "$49.99",
-    image: "/images/hoodie.png"
+    image: "./images/hoodie.png"
   },
   {
     id: 4,
     name: "WRKHRD Tank Top",
     price: "$24.99",
-    image: "/images/tank.png"
+    image: "./images/tank.png"
   }
 ];
 

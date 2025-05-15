@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import '../Home.css';
 
-const backgroundImageUrl = '/images/wrkhrdbg.png';
+const backgroundImageUrl = './images/wrkhrdbg.png';
 const styles = {
   container: {
     height: '100vh',
